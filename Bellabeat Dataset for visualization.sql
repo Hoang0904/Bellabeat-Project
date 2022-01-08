@@ -1,4 +1,3 @@
-# Queries for visualization in Power BI 
 /*
 
 Queries used for Power BI 
