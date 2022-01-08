@@ -1,4 +1,10 @@
---Create Dataset for visualization--
+# Queries for visualization in Power BI 
+/*
+
+Queries used for Power BI 
+
+*/
+
 SELECT *
 FROM Bellabeat_Project.dbo.dailyActivity AS daily_activity
 LEFT JOIN Bellabeat_Project.dbo.sleepDay AS sleep_day
